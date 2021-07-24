@@ -1,5 +1,7 @@
 # discord_ab_test
-ab test utility on discord.py
+AB test utility on discord.py
+Currently, this project is on draft stage because I'm busy right now.
+PRs are welcome!
 
 ## Draft
 Currently, this project is just on idea stage.
